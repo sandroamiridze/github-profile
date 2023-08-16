@@ -1,8 +1,3 @@
-# React + Vite
+# Github Profiles Using Fetch API
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Screenshot 2023-08-16 at 13-00-54 Github Users](https://github.com/sandroamiridze/github-profile/assets/110345189/ad014072-bcd9-4c0a-9064-3e2391a33fc5)
